@@ -1,0 +1,12 @@
+C:\Users\ahmet\Desktop\summer_2023\june26_july2\client\bin\Debug\client.exe.config
+C:\Users\ahmet\Desktop\summer_2023\june26_july2\client\bin\Debug\client.exe
+C:\Users\ahmet\Desktop\summer_2023\june26_july2\client\bin\Debug\client.pdb
+C:\Users\ahmet\Desktop\summer_2023\june26_july2\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\ahmet\Desktop\summer_2023\june26_july2\client\obj\Debug\client.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmet\Desktop\summer_2023\june26_july2\client\obj\Debug\client.FormConnect.resources
+C:\Users\ahmet\Desktop\summer_2023\june26_july2\client\obj\Debug\client.FormClient.resources
+C:\Users\ahmet\Desktop\summer_2023\june26_july2\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\ahmet\Desktop\summer_2023\june26_july2\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\ahmet\Desktop\summer_2023\june26_july2\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\Desktop\summer_2023\june26_july2\client\obj\Debug\client.exe
+C:\Users\ahmet\Desktop\summer_2023\june26_july2\client\obj\Debug\client.pdb
